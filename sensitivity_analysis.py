@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ### LSE Data Analytics Online Career Accelerator 
-# 
-# # Course 301: Advanced Analytics for Organisational Impact
-
-# ## Demonstration: Sensitivity scenario and what-if analysis combined
+# Sensitivity scenario and what-if analysis combined
 
 # You’ve created a retirement model for the wealth management company and plotted the results in a DataFrame, let’s see how the model responds to different outputs and scenarios to solve a specific business challenge. In this demonstration, we will combine a sensitivity scenario and a what-if analysis.
 
