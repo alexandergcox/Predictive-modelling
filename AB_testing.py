@@ -1,12 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ### LSE Data Analytics Online Career Accelerator 
-# # Course 301: Advanced Analytics for Organisational Impact
-
-# ## Practical activity: Conduct A/B testing in Python
-
-# **This is the solution to the activity.**
+# A/B testing
 # 
 # An online bicycle store has changed its home page interface to encourage visitors to click through to its loyalty programme sign-up page. It is hoping the new interface will encourage more visitors to access the loyalty programme page, see what benefits the programme brings, and hopefully then sign up. The current click-through rate (CTR) sits at around 50% annually, and the company hopes the new design will push this to at least 55%. 
 # 
