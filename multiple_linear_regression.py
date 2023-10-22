@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ### LSE Data Analytics Online Career Accelerator 
-# # Course 301: Advanced Analytics for Organisational Impact
-
-# ## Practical activity: Conducting multiple linear regression using Python
+# Conducting multiple linear regression using Python
 
 # **This is the solution to the activity.**
 # 
