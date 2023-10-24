@@ -1,12 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
+# Fitting a data set using the OLS method
 
-# ### LSE Data Analytics Online Career Accelerator 
-# # Course 301: Advanced Analytics for Organisational Impact
-
-# ## Practical activity: Fitting a data set using the OLS method
-
-# **This is the solution to the activity.**
 # 
 # In all regression models, the aim is to minimise residuals by finding the line of best fit. OLS is a common and straightforward way to estimate a linear regression model and to fit a linear equation to observed data. You’ll now have a chance to fit a data set using OLS in Python. 
 # 
