@@ -1,12 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
+# Building a BLR model
 
-# ### Data Analytics Online Career Accelerator
-# # Course 301: Advanced Analytics for Organisational Impact
-
-# ## Practical activity: Building a BLR model
-
-# **This is the solution to the activity.**
 # 
 # We’ve learned how to build a binary logistic regression (BLR) model and how to test its accuracy, which included checking key assumptions in logistic regression. Now it’s time for you to build a BLR model as a practical activity.
 # Shen Lee, a senior manager at Westside Hospital in Australia, has to write an article on the prediction and diagnosis of breast cancer. She decides to build a BLR model as part of classification predictive analysis. 
